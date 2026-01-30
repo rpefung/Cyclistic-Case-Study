@@ -1,4 +1,4 @@
-Cyclistic Case Study
+Cyclistic Case Study:
 This is a case study in the Capstone Projects Course which is the last step of Google's Data Analytics Professional Certificate.
 
 Scenario:
